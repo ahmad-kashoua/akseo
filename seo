@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SEO Services</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Google Tag (replace with your own tag) -->
+  <!-- Example Tag: Replace this with the one you got from Google Ads -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      background-color: #f9f9f9;
+      text-align: center;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+  <h1>SEO Services</h1>
+  <p>We help businesses grow online by improving their search engine visibility.</p>
+</body>
+</html>
